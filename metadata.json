@@ -1,0 +1,7 @@
+{
+  "name": "Sebrisat ERP - Electronics Suite",
+  "description": "A comprehensive electronics ERP system featuring inventory management, sales tracking, and an integrated credit service for installments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
